@@ -1,0 +1,243 @@
+body{
+    font-family: avenir, sans-serif ;
+    margin: 0;
+    margin-left: 45px;
+    padding: 0;
+}
+
+header {
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-template-rows: auto ;
+    margin-top: 10px;
+    margin-bottom: 180px ;
+}
+
+footer{
+    padding-left: 1348;
+    margin-bottom: 44px;
+}
+
+p{
+    font-family: avenir, sans-serif ;
+    font-size: 16px;
+    line-height: 23px;
+    color: #919191;
+    padding-top: 30px;
+    margin-left: 20px;
+    margin-right: 780px;
+    margin-bottom: 50px;
+}
+
+/* -----------H1s------------- */
+
+#bo{
+    background-image: url(IMG/bobg.png);
+    background-repeat: no-repeat;
+    background-position: 180px 20px;
+    font-size: 32px;
+    color: #636363;
+    padding-left: 200px;
+    padding-bottom: 80px;
+}
+
+#mug{
+    background-image: url(IMG/Mugbg.png);
+    background-repeat: no-repeat;
+    background-position: 190px 20px;
+    font-size: 32px;
+    color: #636363;
+    padding-left: 200px;
+    padding-bottom: 80px;
+}
+
+#chair{
+    background-image: url(IMG/chairbg.png);
+    background-repeat: no-repeat;
+    background-position: 190px 20px;
+    font-size: 32px;
+    color: #636363;
+    padding-left: 200px;
+    padding-bottom: 80px;
+}
+
+#backpack{
+    background-image: url(IMG/backpackbg.png);
+    background-repeat: no-repeat;
+    background-position: 190px 20px;
+    font-size: 32px;
+    color: #636363;
+    padding-left: 200px;
+    padding-bottom: 80px;
+}
+
+#molds{
+    background-image: url(IMG/Mugbg.png);
+    background-repeat: no-repeat;
+    background-position: 190px 20px;
+    font-size: 32px;
+    color: #636363;
+    padding-left: 200px;
+    padding-bottom: 80px;
+}
+
+#egg{
+    background-image: url(IMG/eggbg.png);
+    background-repeat: no-repeat;
+    background-position: 190px 20px;
+    font-size: 32px;
+    color: #636363;
+    padding-left: 200px;
+    padding-bottom: 80px;
+}
+
+#fire{
+    background-image: url(IMG/firebg.png);
+    background-repeat: no-repeat;
+    background-position: 190px 20px;
+    font-size: 32px;
+    color: #636363;
+    padding-left: 200px;
+    padding-bottom: 80px;
+}
+
+#stool{
+    background-image: url(IMG/stoolbg.png);
+    background-repeat: no-repeat;
+    background-position: 190px 20px;
+    font-size: 32px;
+    color: #636363;
+    padding-left: 200px;
+    padding-bottom: 80px;
+}
+
+#jar{
+    background-image: url(IMG/jarbg.png);
+    background-repeat: no-repeat;
+    background-position: 190px 20px;
+    font-size: 32px;
+    color: #636363;
+    padding-left: 200px;
+    padding-bottom: 80px;
+}
+
+#bowl{
+    background-image: url(IMG/bowlbg.png);
+    background-repeat: no-repeat;
+    background-position: 190px 20px;
+    font-size: 32px;
+    color: #636363;
+    padding-left: 200px;
+    padding-bottom: 80px;
+}
+
+#vase{
+    background-image: url(IMG/vasebg.png);
+    background-repeat: no-repeat;
+    background-position: 190px 20px;
+    font-size: 32px;
+    color: #636363;
+    padding-left: 200px;
+    padding-bottom: 80px;
+}
+
+#teal{
+    background-image: url(IMG/tealbg.png);
+    background-repeat: no-repeat;
+    background-position: 190px 20px;
+    font-size: 32px;
+    color: #636363;
+    padding-left: 200px;
+    padding-bottom: 80px;
+}
+
+#contrast{
+    background-image: url(IMG/contrastbg.png);
+    background-repeat: no-repeat;
+    background-position: 190px 20px;
+    font-size: 32px;
+    color: #636363;
+    padding-left: 200px;
+    padding-bottom: 80px;
+}
+
+#handle{
+    background-image: url(IMG/handlebg.png);
+    background-repeat: no-repeat;
+    background-position: 190px 20px;
+    font-size: 32px;
+    color: #636363;
+    padding-left: 200px;
+    padding-bottom: 80px;
+}
+/* -----------H1s------------- */
+
+h3{
+    font-size: 22px;
+    color: #636363;
+    padding-left: 20px;
+    margin-top: 120px;
+}
+
+.stool{
+    margin-top: 80px;
+}
+
+#eggtxt{
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+.final{
+    margin-bottom: 0;
+}
+#moldscap{
+    padding-top: 0;
+}
+#name{
+    padding-left: 60px ;
+    padding-top: 30px ;
+}
+
+.nav li {
+    display: inline-block ;
+}
+
+.nav li a {
+    display: block;
+    padding-left: 50px;
+    color: #BFBFBF ;
+    font-size: 15px;
+    font-weight: 400;
+    text-decoration:none ;
+}
+
+.nav {
+    padding-left: 300;
+    padding-top: 60;
+}
+
+.nav li a:hover{
+    color: #4C4C4C ;
+}
+
+.social{
+    grid-column-start: 5;
+    grid-column-end: 6;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    padding-left: 130px;
+    padding-top: 120;
+}
+
+.buttons{
+    list-style-type: none;
+}
+
+.buttons li{
+    padding-top: 10px;
+}
+
+.content{
+    padding-left: 200px;
+}
